@@ -19,3 +19,7 @@ Envia os commits da branch local para o repositório remoto, atualizando o hist�
 # Git commit
 Grava as mudanças na área de "staging" no histórico do repositório, com uma mensagem de commit explicativa sobre as alterações.
 
+# cmdkey /delete:LegacyGeneric:target=git:https://github.com
+Para remover o login
+
+
